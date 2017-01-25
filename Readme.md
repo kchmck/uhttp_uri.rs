@@ -39,7 +39,7 @@ it as a dependency in `Cargo.toml`:
 
 ```toml
 [dependencies]
-uhttp_uri = "0.5.0"
+uhttp_uri = "0.5.1"
 ```
 and importing it in the crate root:
 

@@ -1,6 +1,6 @@
 [package]
 name = "uhttp_uri"
-version = "0.5.0"
+version = "0.5.1"
 authors = ["Mick Koch <mick@kochm.co>"]
 description = "Zero-allocation parser for HTTP URIs"
 license = "MIT"
