@@ -1,0 +1,9 @@
+[package]
+name = "uhttp_uri"
+version = "0.5.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Zero-allocation parser for HTTP URIs"
+license = "MIT"
+documentation = "https://docs.rs/uhttp_uri"
+repository = "https://github.com/kchmck/uhttp_uri.rs"
+keywords = ["http", "uri", "url", "slice"]
